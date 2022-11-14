@@ -14,7 +14,6 @@
 Experience in programming - 5 years, of which 2 - commercial development. 
 I will be glad to cooperate!
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
