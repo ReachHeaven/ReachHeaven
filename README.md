@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karim Amirov</h1>
 <h3 align="center">A backend developer from Kazakhstan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reachheaven" alt="reachheaven" /></a> </p>
-
 - 🔭 I’m currently working on some simple parsers and make rest api for commercial project
 
 - 🌱 I’m currently working with python. Django rest framework, beautiful soup, requests, etc. Also, have good commercial expirience with C#(.NET, UWP) and C++(stl, boost)
