@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working with python. Django rest framework, beautiful soup, requests, etc. Also, have good commercial expirience with C#(.NET, UWP) and C++(stl, boost)
 
-- 🤝 I’m looking for help with game logic project on C#(https://github.com/ReachHeaven/Core)(Just 4 fun)
+- 🤝 I’m looking for help with game logic project on C#(https://github.com/ReachHeaven/Core) (Just 4 fun)
 
 - 📫 How to reach me **https://t.me/jeffreydudelebowski**
 
